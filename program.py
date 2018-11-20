@@ -2,6 +2,4 @@
 print('My first Git program!!!')
 print('Hello Python')
 # (c) 2018
-
-
-
+# text from github
